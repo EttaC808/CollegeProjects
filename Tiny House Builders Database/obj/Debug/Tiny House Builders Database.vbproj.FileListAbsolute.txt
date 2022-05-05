@@ -1,0 +1,11 @@
+C:\Users\EttaC\source\repos\Tiny House Builders Database\bin\Debug\Tiny House Builders Database.exe.config
+C:\Users\EttaC\source\repos\Tiny House Builders Database\bin\Debug\Tiny House Builders Database.exe
+C:\Users\EttaC\source\repos\Tiny House Builders Database\bin\Debug\Tiny House Builders Database.pdb
+C:\Users\EttaC\source\repos\Tiny House Builders Database\bin\Debug\Tiny House Builders Database.xml
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny_House_Builders_Database.tinyHouseBuilders.resources
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny_House_Builders_Database.Resources.resources
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny House Builders Database.vbproj.GenerateResource.cache
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny House Builders Database.vbproj.CoreCompileInputs.cache
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny House Builders Database.exe
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny House Builders Database.xml
+C:\Users\EttaC\source\repos\Tiny House Builders Database\obj\Debug\Tiny House Builders Database.pdb
